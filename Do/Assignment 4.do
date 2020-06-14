@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Hansen AER
 
 **1. 
@@ -51,3 +52,9 @@ esttab B1 B2 B3 using assi4.tex, se parentheses keep(1.DUI) title ("Table 3 - Pa
 **8. Figure3
 cmogram recidivism bac1 if bac1<=0.15, cut(0.08) scatter line(0.08) lfit title("Figure 3 - Linear")
 cmogram recidivism bac1 if bac1<=0.15, cut(0.08) scatter line(0.08) qfit title("Figure 3 - Quadratic")
+=======
+use "E:\CHECHO\UNIVERSIDAD\INTERSEMESTRAL 2020\CURSO VERANO_CAUSAL INFERENCE\GitHub\causal-inference-class\hansen_dwi.dta", clear
+gen DUI=0
+replace DUI=1 if bac1>= 0.08
+br bac1 DUI
+>>>>>>> 7e4c9c573f20f5f823d31ff558c3429717d5f153
