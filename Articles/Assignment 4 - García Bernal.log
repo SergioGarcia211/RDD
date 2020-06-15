@@ -1,0 +1,525 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.10)  14 JUN 2020 00:53
+entering extended mode
+**"./Assignment 4 - García Bernal.tex"
+("Assignment 4 - García Bernal.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-03>
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.s
+ty"
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ ("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count176
+\calc@Bcount=\count177
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count178
+\calc@Cskip=\skip51
+) ("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.s
+ty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegshi
+.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
+rr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
+ty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) ("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+)
+\AM@pagewidth=\dimen139
+\AM@pageheight=\dimen140
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.d
+ef"
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box45
+\AM@global@opts=\toks16
+\AM@pagecnt=\count179
+\AM@toc@title=\toks17
+\c@AM@survey=\count180
+\AM@templatesizebox=\box46
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count181
+\l__pdf_internal_box=\box47
+) ("Assignment 4 - García Bernal.aux")
+\openout1 = `"Assignment 4 - García Bernal.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+\AtBeginShipoutBox=\box48
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count182
+\scratchdimen=\dimen141
+\scratchbox=\box49
+\nofMPsegments=\count183
+\nofMParguments=\count184
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count185
+\MPscratchDim=\dimen142
+\MPnumerator=\count186
+\makeMPintoPDFobject=\count187
+\everyMPtoPDFconversion=\toks19
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdflscape\pdflscape
+.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.sty
+"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .pdf\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .pdf\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .png\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .png\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .jpg\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .jpg\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .mps\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .mps\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .jpeg\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ... a Bernal\endcsname .jpeg\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .jbig2\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...a Bernal\endcsname .jbig2\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .jb2\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .jb2\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .PDF\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .PDF\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .PNG\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .PNG\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .JPG\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .JPG\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .JPEG\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ... a Bernal\endcsname .JPEG\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .JBIG2\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...a Bernal\endcsname .JBIG2\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .JB2\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .JB2\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing endcsname inserted.
+<to be read again> 
+                   unhbox 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+<argument> ...cent@spacefactor a Bernal\endcsname 
+                                                  .eps\endcsname 
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \endcsname.
+<argument> ...r a Bernal\endcsname .eps\endcsname 
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+! LaTeX Error: File `Assignment 4 - Garc\unhbox \voidb@x \bgroup \let \unhbox \
+voidb@x \setbox \@tempboxa \hbox {\OT1\i \global \mathchardef \accent@spacefact
+or \spacefactor }\let \begingroup \endgroup \relax \let \ignorespaces \relax \a
+ccent 19 \OT1\i \egroup \spacefactor \accent@spacefactor a Bernal' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\AM@getpagecount ...ource {\AM@currentdocname@fix 
+                                                  }\edef \AM@pagecount {\the...
+l.5 ...pdf[pages=-]{Assignment 4 - García Bernal}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+!pdfTeX error: pdflatex (file C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/t
+ex/latex/tools/.tex): unknown type of image
+ ==> Fatal error occurred, no output PDF file produced!
